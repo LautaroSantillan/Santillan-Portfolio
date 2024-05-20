@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Backend MERN",
+        "imageSrc": "projects/sagradaMadre.jpg",
+        "description": "MERN Backend project for the company I worked for, Sagrada Madre",
+        "skills": ["Node.js", "MongoDB", "Javascript"],
+        "source": "https://github.com/LautaroSantillan/Backend-MERN-Sagrada-Madre"
+    },
+    {
+        "title": "Frontend Siker",
+        "imageSrc": "projects/siker.jpg",
+        "description": "Project based in my frontned work at Siker ",
+        "skills": ["Javascript", "HTML", "CSS"],
+        "source": "Not available for reasons of privacy policy"
+    },
+    {
+        "title": "Website for gym",
+        "imageSrc": "projects/sigmaFitnessGym.jpg",
+        "description": "This project is the final project work of the one course at Coderhouse",
+        "skills": ["Python", "HTML", "CSS"],
+        "source": "https://github.com/LautaroSantillan/Proyecto-Final--Python-Coderhouse"
+    }
+]
