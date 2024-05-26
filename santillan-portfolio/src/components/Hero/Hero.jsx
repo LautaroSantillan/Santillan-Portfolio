@@ -10,7 +10,7 @@ export const Hero = () => {
                     I'm full-stack developer Jr, with 2 years of experience.
                     I'm always learning and practice about differents programming languages.  
                 </p>
-                <a href='santillanlautaro03@gmail.com' className={styles.contactBtn}>Contact Me</a>
+                <a href='https://www.linkedin.com/in/lautaro-ezequiel-santillan-65973b205/' className={styles.contactBtn} target="blank">Contact Me</a>
             </div>
             <img src={getImageUrl("hero/fotoLautaro.png")} alt='photoMe' className={styles.meImg}/>
             <div className={styles.topBlur} />

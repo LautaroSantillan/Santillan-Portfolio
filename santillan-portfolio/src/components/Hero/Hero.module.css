@@ -51,8 +51,9 @@
 }
 
 .meImg {
-    width: 50%;
+    width: 40%;
     z-index: 1;
+    margin-left: 5%;
     animation-name: floating;
     animation-duration: 3s;
     animation-iteration-count: infinite;
