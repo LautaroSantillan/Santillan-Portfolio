@@ -48,6 +48,7 @@
     font-weight: 600;
     padding: 17px 26px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+    margin-right: 20px;
 }
 
 .meImg {
@@ -107,5 +108,13 @@
 
     .content {
         align-items: center;
+    }
+
+    .containerBtn{
+        display: grid;
+    }
+
+    .contactBtn{
+        margin-bottom: 20px;
     }
 }
