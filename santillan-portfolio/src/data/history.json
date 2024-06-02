@@ -1,25 +1,25 @@
 [
-    {
-      "role": "Backend Developer",
-      "organisation": "Sagrada Madre",
-      "startDate": "Aug, 2023",
-      "endDate": "Sept, 2023",
-      "experiences": [
-            "Worked on backend MERN",
-            "Worked on components"
-        ],
-      "imageSrc": "history/sagradaMadre.png"
-    },
-    {
-      "role": "Frontend Developer",
-      "organisation": "Siker",
-      "startDate": "Feb, 2024",
-      "endDate": "Apr, 2024",
-      "experiences": [
-            "Made connections to API from website",
-            "Worked on front components",
-            "Helped fix code errors"
-        ],
-      "imageSrc": "history/siker.png"
-    }
-  ]
+  {
+    "role": "Frontend Developer",
+    "organisation": "Siker",
+    "startDate": "Feb, 2024",
+    "endDate": "May, 2024",
+    "experiences": [
+      "Made connections to API from website",
+      "Worked on front components",
+      "Helped fix code errors"
+    ],
+    "imageSrc": "history/siker.png"
+  },
+  {
+    "role": "Backend Developer",
+    "organisation": "Sagrada Madre",
+    "startDate": "Aug, 2023",
+    "endDate": "Sept, 2023",
+    "experiences": [
+      "Worked on backend MERN",
+      "Worked on components"
+    ],
+    "imageSrc": "history/sagradaMadre.png"
+  }
+]

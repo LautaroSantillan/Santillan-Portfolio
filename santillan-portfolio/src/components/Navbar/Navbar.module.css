@@ -39,18 +39,29 @@
 
 @media screen and (max-width: 830px) {
     .navbar{
-        flex-direction: column;
-        align-items: flex-start;
+        align-items: center;
+        background-color: var(--color-bg);
+        border-bottom: 0.125rem dashed white;
+        margin: 0px;
+        width: 100%;
+        position: fixed;
+        padding-top: 35px;
+    }
+
+    .title {
+        margin-left: 20px;
+        padding-bottom: 15px;
     }
 
     .menu {
         position: absolute;
         right: 0;
-        top: 58px;
+        top: 30px;
         flex-direction: column;
         align-items: flex-end;
         gap: 11px;
         z-index: 3;
+        margin-right: 20px;
     }
 
     .menuBtn {
